@@ -1,0 +1,40 @@
+{
+  "name": "elkit",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethvincent/elkit.git"
+  },
+  "keywords": [
+    "dom",
+    "ui",
+    "html",
+    "element",
+    "component",
+    "diff",
+    "virtual-dom",
+    "elkit",
+    "choo",
+    "yo-yo"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sethvincent/elkit/issues"
+  },
+  "homepage": "https://github.com/sethvincent/elkit#readme",
+  "devDependencies": {
+    "standard": "^10.0.2",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.7.0"
+  },
+  "dependencies": {
+    "bel": "^5.0.2",
+    "nanomorph": "^5.1.2",
+    "on-load": "^3.2.0"
+  }
+}

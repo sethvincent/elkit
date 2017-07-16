@@ -4,6 +4,8 @@
 
 A handy toolkit for creating, diffing, and updating html elements with support for building stateful components, this package is a collection of modules including [bel](https://npmjs.com/bel), [nanomorph](https://npmjs.com/nanomorph) & a [component module](component.js).
 
+This collection of modules is what I use for building components for UI projects, but you may prefer to use bel & nanomorph separately, use similar alternatives, or use a different component module like [nanocomponent](https://npmjs.com/nanocomponent).
+
 ## Install
 
 ```sh
